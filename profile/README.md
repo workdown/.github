@@ -16,4 +16,5 @@
 ## Features
 
 - Cross platform
+- Highly customizable with Extenstions
 
